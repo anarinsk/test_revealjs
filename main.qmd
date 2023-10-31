@@ -8,6 +8,7 @@ format:
     include-in-header: [favicon.html, mathjax.html]
     incremental: true   
     #css:
+    embed-resources: true
     theme: [format.scss, black]
     transition: concave
     background-transition: fade
